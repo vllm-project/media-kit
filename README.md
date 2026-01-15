@@ -38,5 +38,10 @@ This repository contains official logo assets for vLLM in various formats and st
 3. Use the appropriate version for your background (light/dark)
 4. When possible, use SVG format for better scaling
 
+## Color Details
+
+The yellow color is #fdb515 , RGB value (253, 181,  21).
+The blue color is #30a2ff , RGB value (48, 162, 255).
+
 ## Questions
 If you have questions about logo usage or need additional formats, please open an issue in this repository.
